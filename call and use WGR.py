@@ -42,12 +42,3 @@ print("-----WGR top 10------")
 for _ in range(10):
     print(i+1,".",wgr["rankings"][i]["firstName"],wgr["rankings"][i]["lastName"])
     i=i+1
-
-
-
-
-
-
-
-
-
